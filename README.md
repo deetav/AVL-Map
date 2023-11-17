@@ -8,4 +8,4 @@ Maps are commonly implemented as binary search trees, such as the AVL binary sea
 In summary, maps provide an efficient and ordered way to store and retrieve key-value pairs, making them a valuable tool for various applications.
 
 
-<img src="[relative/path/in/repository/to/image.svg](https://ibb.co/fDgkZFb)https://ibb.co/fDgkZFb" width="128"/>
+<img src="https://ibb.co/fDgkZFb" width="128"/>
