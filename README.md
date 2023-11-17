@@ -6,3 +6,6 @@ Internally, maps rely on a comparison object to enforce a specific ordering crit
 Maps are commonly implemented as binary search trees, such as the AVL binary search tree. What sets maps apart from other associative containers is their ability to directly access the mapped value using the operator[].
 
 In summary, maps provide an efficient and ordered way to store and retrieve key-value pairs, making them a valuable tool for various applications.
+
+
+![alt text]([http://url/to/img.png](https://ibb.co/fDgkZFb)https://ibb.co/fDgkZFb)
